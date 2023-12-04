@@ -28,7 +28,7 @@
       --org ORG        Name of organization, your software will be generated in WareHouse/name_org_timestamp
       --task TASK      Prompt of your idea
       --name NAME      Name of software, your software will be generated in WareHouse/name_org_timestamp
-      --model MODEL    GPT Model, choose from {'GPT_3_5_TURBO','GPT_4','GPT_4_32K'}
+      --model MODEL    GPT Model, choose from {'GPT_3_5_TURBO','GPT_4','GPT_4_32K','GPT_4_TURBO'}
     ```
 
 ### 3. Check your software
